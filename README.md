@@ -26,7 +26,7 @@ org.quartz.jobStore.tablePrefix=quartz_db.qrtz_
 org.quartz.jobStore.isClustered=false
 org.quartz.plugin.shutdownHook.class=org.quartz.plugins.management.ShutdownHookPlugin
 org.quartz.plugin.shutdownHook.cleanShutdown=TRUE
-spring.quartz.properties.org.quartz.scheduler.instanceIdGenerator.class=com.nsia.jobs.schedular.CustomQuartzInstanceIdGenerator
+spring.quartz.properties.org.quartz.scheduler.instanceIdGenerator.class=af.gov.anar.lib.jobs.schedular.CustomQuartzInstanceIdGenerator
 
 ```
 
