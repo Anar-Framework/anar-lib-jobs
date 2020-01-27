@@ -31,7 +31,8 @@ spring.quartz.properties.org.quartz.scheduler.instanceIdGenerator.class=com.nsia
 ```
 
 
-This module save config in database create a new schema    `quartz_db` and copy `DDL SQL Queries` from **wiki** section of this repository. 
+This module save config in database create a new schema   
+ `quartz_db` and copy `DDL SQL Queries` from **wiki** section of this repository. 
 
 
 #### Documentation
